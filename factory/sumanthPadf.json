@@ -1,0 +1,9 @@
+{
+	"name": "sumanthPadf",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7568c176-92c9-4770-a0d7-a10bab57c3b3",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
