@@ -1,0 +1,9 @@
+{
+	"name": "sadfdev",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86594d61-35d6-445d-8a95-2a550dba1c52",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
